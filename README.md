@@ -1,4 +1,4 @@
-# 🚀 Santander Dev Week 2023 - ETL com Python
+# 🚀 Santander Dev Week - ETL com Python
 
 Projeto desenvolvido como desafio da DIO (Digital Innovation One), com o objetivo de simular um pipeline de ETL utilizando Python e conceitos de IA generativa.
 
